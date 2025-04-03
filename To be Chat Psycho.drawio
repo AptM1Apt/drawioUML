@@ -1,67 +1,87 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.2.5">
   <diagram name="Страница — 1" id="99NEOgCNLpRDA_7hxaWP">
-    <mxGraphModel dx="2068" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1723" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_xGuzI4it3Ap0r0oz-_N-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_xGuzI4it3Ap0r0oz-_N-2" target="_xGuzI4it3Ap0r0oz-_N-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_xGuzI4it3Ap0r0oz-_N-2" value="&lt;div&gt;Люди, которым&amp;nbsp;&lt;/div&gt;&lt;div&gt;нужна моральная или психологическая&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;поддержка&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="30" y="280" width="190" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="_xGuzI4it3Ap0r0oz-_N-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_xGuzI4it3Ap0r0oz-_N-3" target="_xGuzI4it3Ap0r0oz-_N-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_xGuzI4it3Ap0r0oz-_N-3" value="Люди с социальной тревогой" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="45" y="480" width="160" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="_xGuzI4it3Ap0r0oz-_N-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="_xGuzI4it3Ap0r0oz-_N-4" target="_xGuzI4it3Ap0r0oz-_N-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_xGuzI4it3Ap0r0oz-_N-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="_xGuzI4it3Ap0r0oz-_N-4" target="_xGuzI4it3Ap0r0oz-_N-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_xGuzI4it3Ap0r0oz-_N-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_xGuzI4it3Ap0r0oz-_N-4" target="_xGuzI4it3Ap0r0oz-_N-18" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_xGuzI4it3Ap0r0oz-_N-4" value="Чат бот психолог" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="310" y="305" width="120" height="120" as="geometry" />
+        <mxCell id="C2r9WI-Q8eFoeHlejOxD-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="375" y="100" width="235" height="570" as="geometry" />
         </mxCell>
         <mxCell id="_xGuzI4it3Ap0r0oz-_N-8" value="Службы психологической помощи" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="470" y="60" width="100" height="100" as="geometry" />
+          <mxGeometry x="420" y="160" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_xGuzI4it3Ap0r0oz-_N-9" value="Экстренные номера" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="320" y="60" width="100" height="100" as="geometry" />
+          <mxGeometry x="420" y="550" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="_xGuzI4it3Ap0r0oz-_N-16" value="Уменьшает нагрузку на оба объекта, может помочь решить небольшие проблемы без вмешательств специалистов" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="390" y="260" width="240" height="30" as="geometry" />
+        <mxCell id="_xGuzI4it3Ap0r0oz-_N-26" value="&lt;div&gt;Позволяет собрать первичный анамнез, держать человека в стабильном состоянии &lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="610" y="400" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_xGuzI4it3Ap0r0oz-_N-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_xGuzI4it3Ap0r0oz-_N-18" target="_xGuzI4it3Ap0r0oz-_N-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="eHNMV4t883VhhA6zOG0G-1" value="Оказывает помощь в любой момент времени, при нужде перенаправляя человека к более компетентным специалистам" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="240" y="260" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_xGuzI4it3Ap0r0oz-_N-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="_xGuzI4it3Ap0r0oz-_N-18" target="_xGuzI4it3Ap0r0oz-_N-9" edge="1">
+        <mxCell id="eHNMV4t883VhhA6zOG0G-2" value="Облегчает подготовку к обращению к специалисту" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="230" y="460" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eHNMV4t883VhhA6zOG0G-3" value="Уменьшает нагрузку" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="495" y="270" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C2r9WI-Q8eFoeHlejOxD-1" value="&lt;div&gt;Люди, которым&amp;nbsp;&lt;/div&gt;&lt;div&gt;нужна моральная или психологическая&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;поддержка&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="245" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C2r9WI-Q8eFoeHlejOxD-2" value="Люди с социальной тревогой" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="470" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C2r9WI-Q8eFoeHlejOxD-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="C2r9WI-Q8eFoeHlejOxD-3" target="_xGuzI4it3Ap0r0oz-_N-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="700" y="190" />
-              <mxPoint x="370" y="190" />
+              <mxPoint x="842" y="600" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_xGuzI4it3Ap0r0oz-_N-18" value="Профессиональные психологи" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="620" y="300" width="160" height="150" as="geometry" />
+        <mxCell id="C2r9WI-Q8eFoeHlejOxD-3" value="Профессиональные психологи" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="827" y="330" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_xGuzI4it3Ap0r0oz-_N-26" value="&lt;div&gt;Позволяет собрать первичный анамнез, держать человека в стабильном состоянии &lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="480" y="420" width="130" height="30" as="geometry" />
+        <mxCell id="C2r9WI-Q8eFoeHlejOxD-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="C2r9WI-Q8eFoeHlejOxD-6" target="_xGuzI4it3Ap0r0oz-_N-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eHNMV4t883VhhA6zOG0G-1" value="Оказывает помощь в любой момент времени, при нужде перенаправляя человека к более компетентным специалистам" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="470" width="130" height="30" as="geometry" />
+        <mxCell id="C2r9WI-Q8eFoeHlejOxD-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="C2r9WI-Q8eFoeHlejOxD-6" target="_xGuzI4it3Ap0r0oz-_N-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eHNMV4t883VhhA6zOG0G-2" value="Облегчает подготовку к обращению к специалисту" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="205" y="585" width="130" height="30" as="geometry" />
+        <mxCell id="C2r9WI-Q8eFoeHlejOxD-6" value="Чат бот психолог" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="350" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="eHNMV4t883VhhA6zOG0G-3" value="Уменьшает нагрузку" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="330" width="80" height="30" as="geometry" />
+        <mxCell id="C2r9WI-Q8eFoeHlejOxD-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.019;entryY=0.573;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="C2r9WI-Q8eFoeHlejOxD-1" target="C2r9WI-Q8eFoeHlejOxD-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="440" as="sourcePoint" />
+            <mxPoint x="460" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C2r9WI-Q8eFoeHlejOxD-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="C2r9WI-Q8eFoeHlejOxD-2" target="C2r9WI-Q8eFoeHlejOxD-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="440" as="sourcePoint" />
+            <mxPoint x="460" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C2r9WI-Q8eFoeHlejOxD-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="C2r9WI-Q8eFoeHlejOxD-3" target="C2r9WI-Q8eFoeHlejOxD-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="440" as="sourcePoint" />
+            <mxPoint x="460" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C2r9WI-Q8eFoeHlejOxD-10" value="&lt;div&gt;Перенаправляет&amp;nbsp;&lt;/div&gt;&lt;div&gt;при необходимости&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="300" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C2r9WI-Q8eFoeHlejOxD-13" value="Уменьшает нагрузку" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="495" y="470" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C2r9WI-Q8eFoeHlejOxD-14" value="&lt;div&gt;Перенаправляет&amp;nbsp;&lt;/div&gt;&lt;div&gt;при необходимости&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="500" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C2r9WI-Q8eFoeHlejOxD-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="_xGuzI4it3Ap0r0oz-_N-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="360" as="sourcePoint" />
+            <mxPoint x="420" y="320" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
